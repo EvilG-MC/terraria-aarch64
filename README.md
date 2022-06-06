@@ -14,7 +14,7 @@
 
 ## 0. How to use
 
-Download the [Script](https://github.com/EvilG-MC/terraria-server/blob/main/start-terraria.sh) and follow this steps:
+Download the [Script](https://github.com/EvilG-MC/terraria-aarch64/blob/main/start-terraria.sh) and follow this steps:
 
 > Navigate to the folder where you want the server and follow the next steps:
 ```sh
